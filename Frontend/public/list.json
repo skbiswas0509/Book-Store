@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 0,
+        "category": "Fantasy",
+        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+    },
+    {
+        "id": 2,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 20,
+        "category": "Sports",
+        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+    },
+    {
+        "id": 3,
+        "name": "Movies Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 40,
+        "category": "Entertaiment",
+        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+    },
+    {
+        "id": 4,
+        "name": "Politics Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 30,
+        "category": "Country",
+        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+    },
+    {
+        "id": 5,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 20,
+        "category": "Music",
+        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+    }
+]
