@@ -5,7 +5,7 @@
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
         "price": 0,
         "category": "Fantasy",
-        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+        "image": "./free_book.svg"
     },
     {
         "id": 2,
@@ -13,15 +13,15 @@
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
         "price": 20,
         "category": "Sports",
-        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+        "image": "./free_book.svg"
     },
     {
         "id": 3,
         "name": "Movies Book",
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
         "price": 40,
-        "category": "Entertaiment",
-        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+        "category": "Free",
+        "image": "./free_book.svg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
         "price": 30,
         "category": "Country",
-        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+        "image": "./free_book.svg"
     },
     {
         "id": 5,
@@ -37,6 +37,34 @@
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
         "price": 20,
         "category": "Music",
-        "image": "https://www.freepik.com/free-vector/pop-up-book-with-outdoor-nature-scene_26353395.htm#fromView=search&page=1&position=3&uuid=fa170870-5af8-4bd9-9983-967d4421c036&new_detail=true&query=boook"
+        "image": "./free_book.svg"
+    },{
+        "id": 6,
+        "name": "Comics Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 30,
+        "category": "Free",
+        "image": "./free_book.svg"
+    },{
+        "id": 7,
+        "name": "Tourism Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 30,
+        "category": "Free",
+        "image": "./free_book.svg"
+    },{
+        "id": 8,
+        "name": "Trade Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 30,
+        "category": "Industry",
+        "image": "./free_book.svg"
+    },{
+        "id": 9,
+        "name": "Business Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolor harum",
+        "price": 30,
+        "category": "Free",
+        "image": "./free_book.svg"
     }
 ]

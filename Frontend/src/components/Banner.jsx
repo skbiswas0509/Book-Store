@@ -4,7 +4,7 @@ import banner from '../../public/Banner.jpg'
 const Banner = () => {
     return (
         <>
-            <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
+            <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col gap-9 md:flex-row my-10'>
                 <div className='w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-32'>
                     <div className='space-y-12'>
                         <h1 className='text-4xl font-bold'>Hello welcome here to learn something <span className='text-pink-500'>new everyday!!!!</span></h1>
@@ -25,7 +25,7 @@ const Banner = () => {
                     </div>
                     <button className='btn mt-5 btn-secondary'>Subscribe</button>
                 </div>
-                <div className='order-1 w-full md:w-1/2'>
+                <div className='mt-10 order-1 w-full md:w-1/2'>
                     <img src={banner} className='w-150 h-150' alt="" />
                 </div>
             </div>

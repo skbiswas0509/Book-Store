@@ -1,16 +1,17 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Banner from './components/Banner'
-import Footer from './components/Footer'
-import FreeBooks from './components/FreeBooks'
+import Home from './home/Home'
+import { Route, Routes } from 'react-router-dom'
+import Books from './books/Books'
 
 const App = () => {
   return (
     <>
-      <Navbar/>
-      <Banner/>
-      <FreeBooks/>
-      <Footer/>
+      <div className='dark:bg-slate-900 dark:text-white'>
+      <Routes>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/book" element={<Books/>}/>
+      </Routes>
+      </div>
     </>
   )
 }
